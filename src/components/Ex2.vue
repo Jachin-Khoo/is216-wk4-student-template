@@ -3,7 +3,7 @@
 
     // Add code here
     /* method 1 */
-    import me from '/assets/me.png'
+    /* import me from '/assets/me.png' */
 
     const obj = {
         src: '/assets/me.png',
