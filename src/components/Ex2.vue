@@ -6,9 +6,9 @@
     import me from '/assets/me.png'
 
     const obj = {
-        src: me,
-        width: "x",
-        height: "y"
+        src: '/assets/me.png',
+        width: "200",
+        height: "200"
     }
 
     /* method 2 */
